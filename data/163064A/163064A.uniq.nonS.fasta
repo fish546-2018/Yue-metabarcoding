@@ -1,0 +1,48 @@
+>M05712:17:000000000-D4W67:1:1101:15329:1792_CONS count=682; ali_length=145; direction=right; seq_b_insertion=0; seq_b_deletion=6; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctagatagttaactcaaacaaa
+actatccgccagagaactactagcaacagcttaaaactcaaaggacttggcggtgcttta
+catccctctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:21878:2867_CONS count=35; ali_length=143; direction=right; seq_b_insertion=0; seq_b_deletion=8; seq_a_deletion=8; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctagataattccagaacaaaat
+tattcgccagagaactacaagccagagcttaaaactcaaaggacttggcggtgctttata
+cccgcctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:12635:10122_CONS count=2; ali_length=139; direction=right; seq_ab_match=139; seq_a_mismatch=0; seq_b_deletion=12; seq_b_mismatch=0; seq_a_deletion=12; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaagtcagctaattaaacaaatctat
+ccgccagacaactattagcagcagcttaaattcaaaggacttggtggtgctttatatccc
+tctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:15178:14162_CONS count=4; ali_length=143; direction=right; seq_b_insertion=0; seq_b_deletion=8; seq_a_deletion=8; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctaaataatttcataataaaat
+tattcgccagagaactacaagccagagcttaaaactcaaaggacttggcggtgctttata
+cccgcctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:3975:14624_CONS count=2; ali_length=145; direction=right; seq_ab_match=145; seq_a_mismatch=0; seq_b_deletion=6; seq_b_mismatch=0; seq_a_deletion=6; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctagatagttaactcaaacaaa
+actatccgccagagaaccactagcaacagcttaaaactcaaaggacttggcggtgcttta
+catccctctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:16709:15016_CONS count=27; ali_length=144; direction=right; seq_b_insertion=0; seq_b_deletion=7; seq_a_deletion=7; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacataaatagttatataaacaaaa
+ctattcgccagagtactaccggcaatagcttaaaactcaaaggacttggcggtgctttat
+acccttctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:21597:15566_CONS count=5; ali_length=144; direction=right; seq_b_insertion=0; seq_a_mismatch=0; seq_b_deletion=7; seq_a_deletion=7; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aatgggattagataccccactatgcttagccctaaacctagatagttaactcaaacaaaa
+ctatccgccagagaactactagcaacagcttaaaactcaaaggacttggcggtgctttac
+atccctctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:23937:17104_CONS count=2; ali_length=144; direction=right; seq_ab_match=144; seq_a_mismatch=0; seq_b_deletion=7; seq_b_mismatch=0; seq_a_deletion=7; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctagatagttaactcaaacaaa
+actatccgccagagaactactagcaacagcttaaaactcaaaggacttggcggtgcttta
+catccctctagaggacctgttcta
+>M05712:17:000000000-D4W67:1:1101:20946:19042_CONS count=2; ali_length=144; direction=right; seq_ab_match=144; seq_a_mismatch=0; seq_b_deletion=7; seq_b_mismatch=0; seq_a_deletion=7; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacacaaatagttgcataaacaaaa
+ctattcaccagagtactaccggcaatagcttaaaactcaaaggacttggcggtgctttat
+acccttctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:23448:21238_CONS count=2; ali_length=128; direction=left; seq_ab_match=128; seq_a_mismatch=0; seq_b_deletion=0; seq_b_mismatch=0; seq_a_deletion=0; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=23; seq_b_single=23; 
+aactgggattagataccctggtagtccacgccctaaacgatgaatactcgctgttagcga
+tatacagttagcggctaagcgaaagcgttaagtattccacctggggagtacgctcgcaag
+agtgaaactcaaaggaattgacgggggcccgcacaagcggaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:15391:21642_CONS count=3; ali_length=146; direction=right; seq_ab_match=146; seq_a_mismatch=0; seq_b_deletion=5; seq_b_mismatch=0; seq_a_deletion=5; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactacgcttaaccctaaacttagatagctaactaaacaaat
+ctgtctgccacagaactagcaacagcttaaaactcaaaggactttgcaatgctttatttt
+atatccctctagaggagcctgttcta
+>M05712:17:000000000-D4W67:1:1101:10433:26285_CONS count=3; ali_length=145; direction=right; seq_ab_match=145; seq_a_mismatch=0; seq_b_deletion=6; seq_b_mismatch=0; seq_a_deletion=6; seq_b_insertion=0; seq_a_insertion=0; mode=alignment; seq_a_single=0; seq_b_single=0; 
+aactgggattagataccccactatgcttagccctaaacctagatagtttaactaaacaaa
+actatccaccagagaactactagcaacagcttaaaactcaaaggacttggcggtgcttta
+tatccctctagaggagcctgttcta
