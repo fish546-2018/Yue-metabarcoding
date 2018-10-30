@@ -15,6 +15,7 @@ There are three directories in this repository and many subdirectories. Here is 
 - Scripts
   - alignment_score_histogram.R: visualize alignment scores;
   - QC.sh: shell script to filter sequences via OBItools commands;
+  - summaryCount.sh: count the number of remaining sequences after each filtering step
 
 - Analyses
   - not sure yet;
