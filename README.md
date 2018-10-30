@@ -6,13 +6,15 @@ This project is looking at the interaction between wolf and coyotes and how this
 
 There are three directories in this repository and many subdirectories. Here is the structure:
 - Data
-  - raw: forward (R1.fastq) and reverse (R2.fastq) reads;
-  - filt: filtered sequence data after removing bad alignments, dereplicates, remove singletons, remove bad PCR and remove contaminants;
-  - taxo: taxonomy classified sequences;
+  - All: forward (R1_001.fastq) and reverse (R2_001.fastq) reads;
+  - merged: merge forward and reverse reads;
+  - goodalignment: only keep sequences with good alignment score;
+  - dereplicated: remove replicates;
+  - noSingleton: remove singletons;
 
 - Scripts
-  - filter.txt
-  - taxon.txt
+  - alignment_score_histogram.R: visualize alignment scores;
+  - QC.sh: shell script to filter sequences via OBItools commands;
 
 - Analyses
   - not sure yet;
