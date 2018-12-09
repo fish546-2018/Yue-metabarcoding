@@ -19,17 +19,17 @@ There are three directories in this repository and many subdirectories. Here is 
   - noSingleton: after remove singletons;
 
 - Scripts
- - 1_MergeAlignment.sh: a script to merge forward and reverse reads in each sample file; 
- - 2_AlignmentScorePlot.R: an R script to generate a histogram plot of alignment score;
- - 3_afterAlignment.sh: a script to further filter out sequences with bad alignment score, remove replicates and singletons;
- - 4_summaryCount.sh: a script to get a summary table of the number of remaining reads after each quality filtering step; 
- - run.sh: a macro script which contains all the above 4 scripts; 
+  - 1_MergeAlignment.sh: a script to merge forward and reverse reads in each sample file;  
+  - 2_AlignmentScorePlot.R: an R script to generate a histogram plot of alignment score;  
+  - 3_afterAlignment.sh: a script to further filter out sequences with bad alignment score, remove replicates and singletons;  
+  - 4_summaryCount.sh: a script to get a summary table of the number of remaining reads after each quality filtering step;  
+  - run.sh: a macro script which contains all the above 4 scripts; 
 
 - Analyses
   - taxonomy.sh: taxonomy classify each read of each sample; 
   - dietbar.R: an R script to visualize the diet of each sample; 
  
- #### Project Timeline
+#### Project Timeline
  
 Week 4: Set up project directory and organization;
 
