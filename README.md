@@ -17,17 +17,24 @@ There are three directories in this repository and many subdirectories. Here is 
   - goodalignment: after only keep sequences with good alignment score;
   - dereplicated: after remove replicates;
   - noSingleton: after remove singletons;
+  - final: same files as noSingleton, just with edited header for each sequences;
+  - bastdb: store the reference database; 
+  - blastOutput: store the blast results; 
 
 - Scripts
   - 1_MergeAlignment.sh: a script to merge forward and reverse reads in each sample file;  
   - 2_AlignmentScorePlot.R: an R script to generate a histogram plot of alignment score;  
   - 3_afterAlignment.sh: a script to further filter out sequences with bad alignment score, remove replicates and singletons;  
-  - 4_summaryCount.sh: a script to get a summary table of the number of remaining reads after each quality filtering step;  
-  - run.sh: a macro script which contains all the above 4 scripts; 
-
-- Analyses
-  - taxonomy.sh: taxonomy classify each read of each sample; 
-  - dietbar.R: an R script to visualize the diet of each sample; 
+  - 4_summaryCount.sh: a script to get a summary table of the number of remaining reads after each quality filtering step; 
+  - 5_blast.sh: a script to get a taxonomy classification summary called "all_classified.fastq" stored in blastOutput folder;
+  - 6_DietBar.R: an R script to generate a barchart to visualize the diet of each sample; 
+  - run.sh: a macro script which contains all the above 6 scripts; 
+  
+ Results:
+ - alignmentscore.pdf : a histogram plot of alignment score generated from 2_AlignmentScorePlot.R; 
+ - file.names: a list of sample names; 
+ - sum.final: a summary table of the number of remaining reads after each quality filtering step generated from 4_summaryCount.sh; 
+ - relativeAbundance.pdf: a barchart to visualize the diet of each sample generated from 6_DietBar.R;
  
 #### Project Timeline
  
