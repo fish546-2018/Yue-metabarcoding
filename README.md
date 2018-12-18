@@ -31,10 +31,10 @@ There are three directories in this repository and many subdirectories. Here is 
   - run.sh: a macro script which contains all the above 6 scripts; 
   
  Results:
- - alignmentscore.pdf : a histogram plot of alignment score generated from 2_AlignmentScorePlot.R; 
- - file.names: a list of sample names; 
- - sum.final: a summary table of the number of remaining reads after each quality filtering step generated from 4_summaryCount.sh; 
- - relativeAbundance.pdf: a barchart to visualize the diet of each sample generated from 6_DietBar.R;
+ - [alignmentscore.pdf](./alignmentscore.pdf) : a histogram plot of alignment score generated from 2_AlignmentScorePlot.R; 
+ - [file.names](./file.names): a list of sample names; 
+ - [sum.final](./sum.fimal): a summary table of the number of remaining reads after each quality filtering step generated from 4_summaryCount.sh; 
+ - [relativeAbundance.pdf](./relativeAbundance.pdf): a barchart to visualize the diet of each sample generated from 6_DietBar.R;
  
 #### Project Timeline
  
